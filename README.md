@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusPool — Smart College Transport Pooling Management System
 
 CampusPool is a production-ready, full-stack college-specific transport pooling and mobility management platform built on the **MERN** stack (MongoDB, Express, React, Node.js). It enables verified students and faculty to coordinate shared commutes, split fuel expenses server-side, track official college bus timetables, utilize emergency SOS alerts, and contribute to campus-wide carbon abatement analytics.
@@ -185,3 +186,6 @@ npm test
 3. **HTTP Hardening**: Configured `Helmet` security headers and `CORS` with explicit origin whitelist.
 4. **Rate Limiting**: `express-rate-limit` protects against brute-force attacks on auth and API routes.
 5. **Privacy Safeguard**: Exact residential street addresses are never rendered publicly—only approximate localities and official pickup points.
+=======
+# DT_project
+>>>>>>> fd714839fb1a0279e0cee9dce4fe16d797f61bc8
